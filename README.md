@@ -23,21 +23,17 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/6aa69088651bf8f2757a3.jpg)](https://wa.me/94764319665)
+[![Nippa](https://telegra.ph/file/6aa69088651bf8f2757a3.jpg)](https://wa.me/94764319665)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/6aa69088651bf8f2757a3.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
-
-## MY YT CHANNEL
-
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
+[![Nippa](https://telegra.ph/file/6aa69088651bf8f2757a3.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
 
 </details>
 
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/NIPPATech/NIPPA-MD-fork)***
 
-***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
+***Click [My web](https://NIPP-api-7967fdc132a8.herokuapp.com/)***
 
 <hr>
 
